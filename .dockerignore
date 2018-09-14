@@ -1,5 +1,4 @@
 Dockerfile
 .gitignore
-*.pyc
 README.md
 Makefile
